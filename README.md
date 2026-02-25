@@ -28,22 +28,25 @@ AI & Data Engineering professional with hands-on experience in machine learning,
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**AI & Machine Learning**  
-Python • TensorFlow • PyTorch • YOLOv8 • OpenCV • Scikit-Learn • SVM • Reinforcement Learning • LLMs  
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge)
 
-**Data & Analytics**  
-SQL • Pandas • NumPy • Power BI • Tableau • Data Cleaning • KPI Tracking  
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 
-**Robotics & Vision Systems**  
-Object Detection • Image Classification • Sensor Fusion • Edge Computing (Jetson)  
-
-**ERP & Operations**  
-SAP MM • BOM Creation • Procurement & Inventory Planning  
-
-**Tools**  
-Git • Jupyter • VS Code • MATLAB • Excel (Advanced) • Google Colab • Jira • Overleaf  
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 ---
 
@@ -111,7 +114,7 @@ Production planning • Quality control • Process optimisation
 
 🚀 My AI portfolio and experimentation platform:
 
-👉 **[AI Hub Platform —[ Add Your Link Here](https://www.aihubplatform.co.uk/)]**
+👉 https://www.aihubplatform.co.uk/
 
 Showcasing projects, research interests, and applied AI solutions.
 
@@ -132,11 +135,27 @@ Adaptability • Teamwork • Decision Making • Continuous Learning
 
 ---
 
+## 📊 GitHub Analytics
+
+![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp23441&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pp23441&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pp23441)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=pp23441)
+
+---
+
 ## 📫 Connect With Me
 
-🔗 LinkedIn: www.linkedin.com/in/pandya-pruthvi-6148b0142 
-💻 GitHub: [(https://github.com/pp23441) ](https://github.com/pp23441)
-🌐 AI Hub Platform: [https://your-ai-hub-link](https://www.aihubplatform.co.uk/)  
+🔗 LinkedIn: https://www.linkedin.com/in/pandya-pruthvi-6148b0142  
+💻 GitHub: https://github.com/pp23441  
+🌐 AI Hub Platform: https://www.aihubplatform.co.uk/  
 ✉️ Email: pandyapruthvi7@gmail.com  
 
 ---
