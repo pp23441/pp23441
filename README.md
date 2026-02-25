@@ -28,6 +28,44 @@ AI & Data Engineering professional with hands-on experience in machine learning,
 
 ---
 
+## 📈 Core Skill Proficiency
+
+### 🤖 AI & Machine Learning
+Python ██████████ 95%  
+TensorFlow █████████░ 85%  
+PyTorch ████████░░ 80%  
+YOLOv8 █████████░ 85%  
+Scikit-Learn █████████░ 85%  
+Reinforcement Learning ██████░░░░ 60%  
+
+### 👁️ Computer Vision & Robotics
+OpenCV ██████████ 90%  
+Object Detection █████████░ 85%  
+Image Classification █████████░ 85%  
+Sensor Fusion ███████░░░ 70%  
+Edge AI (Jetson) ███████░░░ 70%  
+
+### 📊 Data & Analytics
+SQL █████████░ 85%  
+Pandas █████████░ 85%  
+NumPy █████████░ 85%  
+Power BI ████████░░ 80%  
+Tableau ███████░░░ 70%  
+
+### 🏭 Engineering & Systems
+Process Optimisation █████████░ 85%  
+Supply Chain Analytics ████████░░ 80%  
+ERP (SAP MM) ███████░░░ 70%  
+
+### 🧰 Tools & Development
+Git █████████░ 85%  
+VS Code █████████░ 85%  
+MATLAB ████████░░ 80%  
+Excel (Advanced) █████████░ 85%  
+Jupyter / Colab █████████░ 85%  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### AI & Machine Learning
@@ -35,7 +73,6 @@ AI & Data Engineering professional with hands-on experience in machine learning,
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge)
 
 ### Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -122,8 +159,8 @@ Showcasing projects, research interests, and applied AI solutions.
 
 ## 🤝 Soft Skills
 
-Communication • Leadership • Problem Solving • Project Management  
-Adaptability • Teamwork • Decision Making • Continuous Learning  
+Communication • Leadership • Problem Solving • Time Management  
+Project Management • Adaptability • Teamwork • Decision Making • Continuous Learning  
 
 ---
 
