@@ -2,17 +2,29 @@
 
 # 👋 Hi, I'm Pruthvi Jitendrabhai Pandya
 
-### AI Engineer • Python Developer • Machine Learning Engineer
+### AI Engineer • Python Developer • Machine Learning Engineer • Data Engineer
 
-🎓 MSc Artificial Intelligence — University of Essex
+🎓 MSc Artificial Intelligence (Merit) — University of Essex
 
 📍 London, United Kingdom 🇬🇧
 
-💼 Open to AI Engineering, Machine Learning and Python Software Engineering opportunities
+💼 Open to AI Engineering • Machine Learning • Python Development • Data Engineering
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%20Hub-blue?style=for-the-badge)](https://www.aihubplatform.co.uk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pruthvi%20Pandya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pandya-pruthvi-6148b0142)
-[![GitHub](https://img.shields.io/badge/GitHub-pp23441-black?style=for-the-badge&logo=github)](https://github.com/pp23441)
+<p>
+
+<a href="https://www.aihubplatform.co.uk">
+<img src="https://img.shields.io/badge/Portfolio-AI_Hub_Platform-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/pp23441">
+<img src="https://img.shields.io/badge/GitHub-pp23441-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pandya-pruthvi-6148b0142">
+<img src="https://img.shields.io/badge/LinkedIn-Pruthvi_Pandya-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 </div>
 
@@ -20,58 +32,121 @@
 
 # 🚀 About Me
 
-I enjoy building intelligent software that combines **Artificial Intelligence, Data Engineering, and Python software development** to solve real-world problems.
+I'm passionate about designing and building AI-powered software that solves practical engineering and business problems.
 
-My interests include:
+My work combines
 
+- 🐍 Python Software Engineering
 - 🤖 Machine Learning
-- 🐍 Python Engineering
 - 📊 Data Engineering
 - 👁️ Computer Vision
-- ⚡ Automation
-- 📈 Predictive Modelling
-- 🛰️ Applied AI
-- 🌍 Sustainability
+- ⚡ Process Automation
+- 📈 Predictive Analytics
+- 🌍 Sustainable AI
+
+I enjoy turning research ideas into scalable software while continuously learning modern AI engineering practices.
 
 ---
 
-# 🔨 Currently Building
+# 🚀 Currently Building
 
 ## 🤖 AI Hub Platform
 
-A central platform bringing together
+A central platform for AI developers bringing together
 
 - AI tools
 - Developer resources
 - GitHub integration
-- AI learning
 - Cloud deployment
+- Learning resources
 
 **Stack**
 
-Python
+Python • Flask • OpenAI API • GitHub API • Render
 
-Flask
+🌐 https://www.aihubplatform.co.uk/
 
-OpenAI API
+---
 
-Render
+## 📱 FlutterQuest AI
 
-GitHub API
+An interactive AI-powered Flutter learning platform.
+
+Features
+
+- Flutter tutorials
+
+- AI coding assistant
+
+- Interactive exercises
+
+- Learning roadmap
+
+🌐 https://pp23441.github.io/learn-ai/
+
+Status
+
+🟢 Active Development
+
+---
+
+## 🚀 Rocket.new Portfolio
+
+Modern portfolio built using Rocket.new.
+
+Purpose
+
+- Showcase AI products
+
+- Interactive demos
+
+- Technical portfolio
+
+🌐 https://preview.builtwithrocket.new/projectsproof-9s36?p=c
+
+Status
+
+🟢 Live
+
+---
+
+## 🤖 Foundry Command Center
+
+AI-powered command center for Claude Code agents.
+
+Features
+
+- Agent management
+
+- Prompt orchestration
+
+- Workflow automation
+
+- Developer productivity
+
+Status
+
+🟡 Private Development
+
+(Launching Soon)
 
 ---
 
 ## 🍽️ Restaurant ERP Platform
 
-Modern ERP platform for restaurant management.
+Enterprise Resource Planning platform built for restaurants.
 
 Features
 
 - Inventory
-- Sales Analytics
-- Dashboard
+
 - Staff Management
-- Reporting
+
+- Sales Analytics
+
+- Dashboard Reporting
+
+- Reporting Automation
 
 Stack
 
@@ -85,78 +160,104 @@ Bootstrap
 
 ---
 
-## 👁️ Computer Vision
+## 👁️ Computer Vision Systems
 
-Developing real-time AI systems using
+Real-time AI systems using
 
 - YOLOv8
+
 - OpenCV
+
 - Deep Learning
 
-Applications include
+- Edge AI
+
+Applications
 
 - Object Detection
-- Tracking
+
+- Multi-object Tracking
+
 - Industrial Automation
 
 ---
 
-## 📊 Predictive Analytics
+## 🌱 Predictive Analytics
 
-Machine Learning models for
+Machine Learning solutions for
 
 - Manufacturing
-- Energy
+
+- Biomass Energy
+
 - Forecasting
+
 - Decision Support
+
+Algorithms
+
+- Random Forest
+
+- SVM
+
+- XGBoost
+
+- Neural Networks
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Hub Platform | AI developer platform with cloud deployment |
-| 👁️ Pedestrian Tracking | YOLO + SORT + Kalman Filter |
-| 🌱 Biomass Prediction | Random Forest & SVM |
-| 🎵 Raga Classification | CNN + LSTM MSc Thesis |
-| 🍽️ Restaurant ERP | Django ERP Platform |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 AI Hub Platform | AI developer platform | Python • Flask |
+| 📱 FlutterQuest AI | AI Flutter Learning | Flutter • AI |
+| 🍽️ Restaurant ERP | ERP Platform | Django • SQL |
+| 👁️ Pedestrian Tracking | YOLO + SORT | OpenCV |
+| 🎵 Raga Classification | MSc Thesis | TensorFlow |
+| 🌱 Biomass Prediction | ML Research | Python |
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technology Stack
 
-### Languages
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-
----
-
-### AI
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 ---
 
-### Development
+## Artificial Intelligence
+
+TensorFlow
+
+PyTorch
+
+Scikit-learn
+
+YOLOv8
+
+OpenCV
+
+NumPy
+
+Pandas
+
+---
+
+## Development
 
 Git
 
 GitHub
 
-Django
-
 Flask
+
+Django
 
 VS Code
 
@@ -164,11 +265,7 @@ Jupyter
 
 ---
 
-### Data
-
-Pandas
-
-NumPy
+## Data
 
 Power BI
 
@@ -176,36 +273,71 @@ Tableau
 
 Excel
 
+SAP MM
+
 ---
 
 # 💡 Engineering Philosophy
 
-I enjoy solving complex problems through
+I believe software should be
 
-- Clean architecture
-- Experimentation
-- Continuous learning
-- Maintainable software
-- Production-ready Python
+- Simple
 
-I believe software should be simple, reliable and easy to maintain.
+- Reliable
+
+- Maintainable
+
+- Well documented
+
+I enjoy solving difficult engineering problems through experimentation, clean architecture, and continuous learning.
+
+Rather than only building machine learning models, I enjoy building complete AI-powered products.
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
 - FastAPI
+
 - Docker
+
 - PyTest
-- MLOps
+
 - Kubernetes
+
+- MLOps
+
 - LLM Applications
+
 - AI Agents
+
 - Software Architecture
+
+- Distributed Systems
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 2026 Roadmap
+
+✅ AI Hub Platform
+
+✅ FlutterQuest AI
+
+🟢 Rocket.new Portfolio
+
+🟡 Foundry Command Center
+
+🟡 AI Python SDK
+
+🔵 Open Source AI Libraries
+
+🔵 Technical Blog
+
+🔵 MLOps Projects
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -215,46 +347,56 @@ I believe software should be simple, reliable and easy to maintain.
 
 <img src="https://streak-stats.demolab.com?user=pp23441&theme=github-dark"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pp23441&theme=github_dark"/>
+
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🤝 Let's Collaborate
 
-✅ Build more production-grade Python applications
+I'm always interested in collaborating on
 
-✅ Contribute to Open Source
+- Artificial Intelligence
 
-✅ Publish reusable AI libraries
+- Python Development
 
-✅ Learn advanced MLOps
+- Machine Learning
 
-✅ Write technical blogs
+- Data Engineering
+
+- Computer Vision
+
+- AI Research
+
+- Open Source
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
-📧 **Email**
+🌐 Portfolio
 
-pandyapruthvi7@gmail.com
+https://www.aihubplatform.co.uk/
 
-🌐 **Portfolio**
+💻 GitHub
 
-https://www.aihubplatform.co.uk
+https://github.com/pp23441
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://www.linkedin.com/in/pandya-pruthvi-6148b0142
 
-💻 **GitHub**
+📧 Email
 
-https://github.com/pp23441
+pandyapruthvi7@gmail.com
 
 ---
 
 <div align="center">
 
-⭐ *"Building AI systems that solve real-world engineering challenges."*
+## ⭐ Building intelligent software that creates real-world impact.
+
+*"Code. Learn. Build. Ship. Repeat."*
 
 </div>
