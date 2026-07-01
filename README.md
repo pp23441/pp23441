@@ -1,200 +1,260 @@
+<div align="center">
+
 # 👋 Hi, I'm Pruthvi Jitendrabhai Pandya
 
-🎓 MSc Artificial Intelligence | 🤖 AI & Data Engineering | 👁️ Computer Vision | ⚙️ Process Automation  
-📍 London, UK | 🇬🇧 Right to work in the UK  
+### AI Engineer • Python Developer • Machine Learning Engineer
+
+🎓 MSc Artificial Intelligence — University of Essex
+
+📍 London, United Kingdom 🇬🇧
+
+💼 Open to AI Engineering, Machine Learning and Python Software Engineering opportunities
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%20Hub-blue?style=for-the-badge)](https://www.aihubplatform.co.uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pruthvi%20Pandya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pandya-pruthvi-6148b0142)
+[![GitHub](https://img.shields.io/badge/GitHub-pp23441-black?style=for-the-badge&logo=github)](https://github.com/pp23441)
+
+</div>
 
 ---
 
-## 🧠 About Me
+# 🚀 About Me
 
-AI & Data Engineering professional with hands-on experience in machine learning, computer vision, and data analytics. I build intelligent systems that bridge data, robotics, and real-world decision-making.
+I enjoy building intelligent software that combines **Artificial Intelligence, Data Engineering, and Python software development** to solve real-world problems.
 
-🔹 Real-time AI systems using YOLOv8 & OpenCV  
-🔹 Edge AI & sensor-driven solutions  
-🔹 Data-driven optimisation & automation  
-🔹 Industrial engineering background  
+My interests include:
 
-💡 Passionate about applying AI to physical systems, sustainability, robotics, and large-scale decision systems.
-
----
-
-## 🔭 Current Focus
-
-- Real-time Computer Vision systems  
-- Edge AI deployment (Jetson platforms)  
-- Data Engineering & analytics pipelines  
-- AI for environmental & maritime applications  
-- Research opportunities / PhD pathways  
+- 🤖 Machine Learning
+- 🐍 Python Engineering
+- 📊 Data Engineering
+- 👁️ Computer Vision
+- ⚡ Automation
+- 📈 Predictive Modelling
+- 🛰️ Applied AI
+- 🌍 Sustainability
 
 ---
 
-## 📈 Core Skill Proficiency
+# 🔨 Currently Building
 
-### 🤖 AI & Machine Learning
-Python ██████████ 95%  
-TensorFlow █████████░ 85%  
-PyTorch ████████░░ 80%  
-YOLOv8 █████████░ 85%  
-Scikit-Learn █████████░ 85%  
-Reinforcement Learning ██████░░░░ 60%  
+## 🤖 AI Hub Platform
 
-### 👁️ Computer Vision & Robotics
-OpenCV ██████████ 90%  
-Object Detection █████████░ 85%  
-Image Classification █████████░ 85%  
-Sensor Fusion ███████░░░ 70%  
-Edge AI (Jetson) ███████░░░ 70%  
+A central platform bringing together
 
-### 📊 Data & Analytics
-SQL █████████░ 85%  
-Pandas █████████░ 85%  
-NumPy █████████░ 85%  
-Power BI ████████░░ 80%  
-Tableau ███████░░░ 70%  
+- AI tools
+- Developer resources
+- GitHub integration
+- AI learning
+- Cloud deployment
 
-### 🏭 Engineering & Systems
-Process Optimisation █████████░ 85%  
-Supply Chain Analytics ████████░░ 80%  
-ERP (SAP MM) ███████░░░ 70%  
+**Stack**
 
-### 🧰 Tools & Development
-Git █████████░ 85%  
-VS Code █████████░ 85%  
-MATLAB ████████░░ 80%  
-Excel (Advanced) █████████░ 85%  
-Jupyter / Colab █████████░ 85%  
+Python
+
+Flask
+
+OpenAI API
+
+Render
+
+GitHub API
 
 ---
 
-## 🛠️ Tech Stack
+## 🍽️ Restaurant ERP Platform
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+Modern ERP platform for restaurant management.
 
-### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+Features
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+- Inventory
+- Sales Analytics
+- Dashboard
+- Staff Management
+- Reporting
 
----
+Stack
 
-## 💼 Professional Experience
+Python
 
-### 📊 Data Analyst Intern — Victoria Solutions, London
-- Analysed large datasets using Python, SQL, Power BI  
-- Built KPI dashboards enabling 15% faster decisions  
-- Applied ML (SVM) for customer segmentation  
+Django
 
-### 🏭 Assistant Planning Engineer — Maxxis Tyres
-- Reduced production waste by 20% via data-driven planning  
-- Developed real-time dashboards  
-- Improved efficiency by 15% through quality protocols  
+SQL
 
-### 🚚 Logistics Executive — Nobel Automotive
-- Automated SAP reporting pipelines (40% manual reduction)  
-- Improved on-time shipment performance  
-- Implemented safety procedures reducing incidents by 20%  
+Bootstrap
 
 ---
 
-## 🚀 Key Projects
+## 👁️ Computer Vision
 
-### 👁️ Real-Time Object Detection System
-- YOLOv8 + OpenCV pipeline for live camera inference  
-- Edge-ready architecture for embedded deployment  
+Developing real-time AI systems using
 
-### 🎵 Raga Classification using Neural Networks (MSc Thesis)
-- CNN + LSTM audio classification system  
-- Feature engineering & signal processing  
-- High-accuracy multi-class prediction  
+- YOLOv8
+- OpenCV
+- Deep Learning
 
-### 📈 Retail Sales Analytics Dashboard
-- Power BI dashboard for revenue & KPIs  
-- Identified cross-selling opportunities (+12% conversion)  
+Applications include
 
----
-
-## 🎓 Education
-
-**MSc — Artificial Intelligence and its Applications**  
-University of Essex, UK (Merit)
-
-**Bachelor of Engineering — Mechanical Engineering**  
-SAL Institute of Technology and Engineering Research, India  
+- Object Detection
+- Tracking
+- Industrial Automation
 
 ---
 
-## 🛰️ Certifications & Training
+## 📊 Predictive Analytics
 
-**ISRO — Remote Sensing, GIS & GNSS**  
-Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization  
-📅 Issued Sep 2025  
+Machine Learning models for
 
-**Data Analytics Internship — Victoria Solutions**  
-Python • SQL • Power BI applications  
-
-**Industrial Training — Shah Alloys Ltd**  
-Production planning • Quality control • Process optimisation  
+- Manufacturing
+- Energy
+- Forecasting
+- Decision Support
 
 ---
 
-## 🌐 AI Hub Platform
+# ⭐ Featured Projects
 
-🚀 My AI portfolio and experimentation platform:
-
-👉 https://www.aihubplatform.co.uk/
-
-Showcasing projects, research interests, and applied AI solutions.
-
----
-
-## 🤝 Soft Skills
-
-Communication • Leadership • Problem Solving • Time Management  
-Project Management • Adaptability • Teamwork • Decision Making • Continuous Learning  
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Hub Platform | AI developer platform with cloud deployment |
+| 👁️ Pedestrian Tracking | YOLO + SORT + Kalman Filter |
+| 🌱 Biomass Prediction | Random Forest & SVM |
+| 🎵 Raga Classification | CNN + LSTM MSc Thesis |
+| 🍽️ Restaurant ERP | Django ERP Platform |
 
 ---
 
-## 🌍 Languages
+# 🛠 Tech Stack
 
-🇬🇧 English — Fluent  
-🇮🇳 Gujarati — Native  
-🇮🇳 Hindi — Native  
+### Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## 📊 GitHub Analytics
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp23441&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pp23441&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pp23441)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 
 ---
 
-## 👀 Profile Visitors
+### AI
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pp23441)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 
-## 📫 Connect With Me
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
 
-🔗 LinkedIn: https://www.linkedin.com/in/pandya-pruthvi-6148b0142  
-💻 GitHub: https://github.com/pp23441  
-🌐 AI Hub Platform: https://www.aihubplatform.co.uk/  
-✉️ Email: pandyapruthvi7@gmail.com  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange)
 
 ---
 
-⭐ *Open to AI roles, research collaborations, and funded PhD opportunities.*
+### Development
+
+Git
+
+GitHub
+
+Django
+
+Flask
+
+VS Code
+
+Jupyter
+
+---
+
+### Data
+
+Pandas
+
+NumPy
+
+Power BI
+
+Tableau
+
+Excel
+
+---
+
+# 💡 Engineering Philosophy
+
+I enjoy solving complex problems through
+
+- Clean architecture
+- Experimentation
+- Continuous learning
+- Maintainable software
+- Production-ready Python
+
+I believe software should be simple, reliable and easy to maintain.
+
+---
+
+# 🌱 Currently Learning
+
+- FastAPI
+- Docker
+- PyTest
+- MLOps
+- Kubernetes
+- LLM Applications
+- AI Agents
+- Software Architecture
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pp23441&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pp23441&layout=compact&theme=github_dark"/>
+
+<img src="https://streak-stats.demolab.com?user=pp23441&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build more production-grade Python applications
+
+✅ Contribute to Open Source
+
+✅ Publish reusable AI libraries
+
+✅ Learn advanced MLOps
+
+✅ Write technical blogs
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+pandyapruthvi7@gmail.com
+
+🌐 **Portfolio**
+
+https://www.aihubplatform.co.uk
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/pandya-pruthvi-6148b0142
+
+💻 **GitHub**
+
+https://github.com/pp23441
+
+---
+
+<div align="center">
+
+⭐ *"Building AI systems that solve real-world engineering challenges."*
+
+</div>
