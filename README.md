@@ -102,7 +102,7 @@ Purpose
 
 - Technical portfolio
 
-🌐 (https://preview.builtwithrocket.new/projectsproof-9s36?p=c)
+🌐 https://preview.builtwithrocket.new/projectsproof-xcnl?p=c
 
 Status
 
